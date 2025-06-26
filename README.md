@@ -10,6 +10,7 @@
 <a href="https://www.hackerrank.com/varsha kumaraguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varsha kumaraguru" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vk_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vk_coding" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<mail2varshatv6a>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<mail2varshatv6a>" height="30" width="40" /></a>
+  https://gh-readme-profile.vercel.app/api?username=VarshaKumaraguru&theme=radical&bg_color=000000
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
